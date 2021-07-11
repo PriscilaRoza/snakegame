@@ -1,0 +1,19 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+#titulo{
+    font-family: "Tourney";
+    font-size:larger;
+    color:tomato;
+}
+
+#snake{
+    border-radius: 50px;
+    
+}
